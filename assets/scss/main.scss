@@ -1,0 +1,12 @@
+@charset 'utf-8';
+
+// 세팅, 초기화
+@import 'abstracts/reset';
+@import 'abstracts/variables';
+@import 'abstracts/mixin';
+
+// 스크립트, 플러그인 등 
+@import 'vendor/slides';
+
+// 스타일
+@import 'style';
